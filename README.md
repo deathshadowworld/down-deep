@@ -2,7 +2,7 @@
 I'm starting another project that may get abandoned again.
 
 ## Web Visual Novel
-Inspired by 
+Inspired by<br>
 ![discord](https://cdn.discordapp.com/attachments/616833107965771776/765561295167684618/Screenshot_977.png)
 
 ## Cover Art
