@@ -1,4 +1,4 @@
-<?php include_once(“home.html”); ?>
+
 <html>
 <head>
     <link rel="stylesheet" href="../css/styles.css">
