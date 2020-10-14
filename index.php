@@ -31,7 +31,6 @@
         <li><a href="music/music.html">Music</a></li>
         <li><a href="videos.html">Videos</a></li>
         <li><a href="games.html">Games</a></li>
-
     </ul>
 </nav>
 
