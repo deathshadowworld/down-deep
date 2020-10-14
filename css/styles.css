@@ -1,8 +1,11 @@
 body {background-color: #cdf1f0;}
 
 .mega {color: white; text-align: center;}
+<<<<<<< HEAD
 
 .megab {color: black; text-align: center;}
+=======
+>>>>>>> ce1dd6836c99eefc89f7906e0480479e090cdfe1
 
 ul {
 	list-style-type: none;
@@ -17,6 +20,7 @@ ul {
 	width: 6.5%;
 	margin:auto;
 	width: 30%;
+<<<<<<< HEAD
 	margin-bottom: 15px;
 	border-style: ridge;
 	border-color:white;
@@ -30,25 +34,43 @@ li {
 	margin-bottom: 45px;
 	color: white;
 	text-align: center;
+=======
+	margin-bottom: 10px;
+	border-style: ridge;
+	border-color:white;
+	color: white;
+>>>>>>> ce1dd6836c99eefc89f7906e0480479e090cdfe1
 }
 
 li a {
 	display: block;
 	color:white;
+<<<<<<< HEAD
 	background-color:rgba(255, 255, 255, 0.1);
+=======
+	background-color:rgba(255, 255, 255, 0.2);
+>>>>>>> ce1dd6836c99eefc89f7906e0480479e090cdfe1
 	text-align:center;
 	padding: 16px;
 	text-decoration: none;
 }
 
 li a:hover {
+<<<<<<< HEAD
 	background-color:rgba(255, 255, 255, 0.3);
+=======
+	background-color:rgba(255, 255, 255, 0.5);
+>>>>>>> ce1dd6836c99eefc89f7906e0480479e090cdfe1
 }
 
 hr {background-color: #dadada;}
 
 body {
+<<<<<<< HEAD
 	background-image: url('../media/img/bg/5.png');
+=======
+	background-image: url('../img/bg/5.png');
+>>>>>>> ce1dd6836c99eefc89f7906e0480479e090cdfe1
 	background-size: cover;
 	background-repeat: no-repeat;
   }
