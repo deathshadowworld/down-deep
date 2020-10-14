@@ -46,7 +46,10 @@ li a:hover {
 hr {background-color: #dadada;}
 
 body {
-	background-image: url('/blob/main/media/img/bg/5.png');
+	background-color: aquamarine;
+}
+body {
+	background-image: url('../media/img/bg/5.png');
 	background-size: cover;
 	background-repeat: no-repeat;
   }
