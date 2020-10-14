@@ -8,13 +8,15 @@ ul {
 	padding: 10px;
 	overflow: hidden;
 	background-color: #5dafb6;
+	align-content: center;
+	
 }
 
 li {
-	float: left;
-	width: 6.7%;
+	width: 6.5%;
 	margin:auto;
-	margin-right: 2px;
+	width: 30%;
+	margin-top: 5px;
 	border-style: ridge;
 	border-color:black;
 }
@@ -32,7 +34,7 @@ li a:hover {
 	background-color: #e98336;
 }
 
-hr {height:3px; width:75%; background-color: #dadada;}
+hr {background-color: #dadada;}
 
 .foot {
 	position: fixed;
@@ -44,7 +46,5 @@ hr {height:3px; width:75%; background-color: #dadada;}
 }
 
 .navi {
-	position:fixed;
-	top: 0px;
-	width:98%;
+	width:70%;
 }
