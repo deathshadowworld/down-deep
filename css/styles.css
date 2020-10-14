@@ -1,13 +1,12 @@
 body {background-color: #cdf1f0;}
 
-.mega {color: #303030; text-align: center;}
+.mega {color: white; text-align: center;}
 
 ul {
 	list-style-type: none;
 	margin: auto;
 	padding: 10px;
 	overflow: hidden;
-	background-color: #5dafb6;
 	align-content: center;
 	
 }
@@ -16,25 +15,32 @@ li {
 	width: 6.5%;
 	margin:auto;
 	width: 30%;
-	margin-top: 5px;
+	margin-bottom: 10px;
 	border-style: ridge;
-	border-color:black;
+	border-color:white;
+	color: white;
 }
 
 li a {
 	display: block;
-	color: black;
-	background-color:#fcdb8d;
+	color:white;
+	background-color:rgba(255, 255, 255, 0.2);
 	text-align:center;
 	padding: 16px;
 	text-decoration: none;
 }
 
 li a:hover {
-	background-color: #e98336;
+	background-color:rgba(255, 255, 255, 0.5);
 }
 
 hr {background-color: #dadada;}
+
+body {
+	background-image: url('../img/bg/5.png');
+	background-size: cover;
+	background-repeat: no-repeat;
+  }
 
 .foot {
 	position: fixed;
