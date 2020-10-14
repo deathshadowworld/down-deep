@@ -20,11 +20,7 @@
 
 <nav>
     <ul class="navi">
-<<<<<<< HEAD
         <li><a href="test/home.html">Home 2</a></li>
-=======
-        <li><a href="home.html">Home 2</a></li>
->>>>>>> ce1dd6836c99eefc89f7906e0480479e090cdfe1
         <li><a href="https://www.youtube.com/">Youtube</a></li>
         <li><a href="gurps.html">GURPS</a></li>
         <li><a href="vn.html">Web VN</a></li>
@@ -32,14 +28,10 @@
         <li><a href="manga.html">Manga</a></li>
         <li><a href="hentai.html">Lewd</a></li>
         <li><a href="pictures.html">Pictures</a></li>
-<<<<<<< HEAD
         <li><a href="music/music.html">Music</a></li>
         <li><a href="videos.html">Videos</a></li>
         <li><a href="games.html">Games</a></li>
-=======
-        <li><a href="music.html">Music</a></li>
-        <li><a href="videos.html">Videos</a></li>
->>>>>>> ce1dd6836c99eefc89f7906e0480479e090cdfe1
+
     </ul>
 </nav>
 
