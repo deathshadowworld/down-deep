@@ -46,7 +46,7 @@ li a:hover {
 hr {background-color: #dadada;}
 
 body {
-	background-image: url('https://github.com/deathshadowworld/down-deep/blob/main/media/img/bg/5.png');
+	background-image: url('/blob/main/media/img/bg/5.png');
 	background-size: cover;
 	background-repeat: no-repeat;
   }
