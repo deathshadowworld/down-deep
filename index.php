@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta charset="UTF-8">
     <meta name="description" content="Free Low-Quality content">
-    <meta name="keywords" content="Visual Novel">
+    <meta name="keywords" content="Visual Novel, Hub">
     <meta name="author" content="deathshadowworld">
     <title>Firehub Link</title>
     <link rel="icon" href="../media/img/bonfire.gif">
