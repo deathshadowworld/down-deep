@@ -26,7 +26,7 @@
         <li class="lilink"><a href="vn/vn.html">Web VN</a></li>
         <li class="lilink"><a href="japanese/japanese.html">日本語</a></li>
         <li class="lilink"><a href="manga/manga.html">Manga</a></li>
-        <li class="lilink"><a href="hentai/hentai.html">Lewd</a></li>
+        <li class="lilink"><a href="hentai/hentai.html">Lewds</a></li>
         <li class="lilink"><a href="pictures/pictures.html">Pictures</a></li>
         <li class="lilink"><a href="music/music.html">Music</a></li>
         <li class="lilink"><a href="videos/videos.html">Videos</a></li>
