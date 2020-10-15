@@ -50,7 +50,7 @@ body {
 }
 
 body {
-	background-image: url('https://uploadstatic-sea.mihoyo.com/strategyweb/20200618/2020061801060835508.jpg');
+	background-image: url('../media/img/bg/5.png');
 	background-size: cover;
 	background-repeat: no-repeat;
   }
