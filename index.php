@@ -8,7 +8,7 @@
     <meta name="keywords" content="Visual Novel, Hub">
     <meta name="author" content="deathshadowworld">
     <title>Firehub Link</title>
-    <link rel="icon" href="bg/bonfire.gif">
+    <link rel="icon" href="css/bg/bonfire.gif">
 </head>
 
 
