@@ -11,13 +11,24 @@ ul {
 	
 }
 
+img {
+	max-width: 500px;
+	margin-top: 50px;
+}
+
+video {
+	max-height: 720px;
+	margin-top: 50px;
+}
+
 .lilink {
 	width: 6.5%;
 	margin:auto;
 	width: 30%;
 	margin-bottom: 15px;
 	border-style: ridge;
-	border-color:white;
+	border-radius: 40px;
+	border-color:#dadada;
 	color: white;
 }
 
@@ -32,15 +43,16 @@ li {
 
 li a {
 	display: block;
+	border-radius: 15px;
 	color:white;
-	background-color:rgba(255, 255, 255, 0.1);
+	background-color:rgba(0, 0, 0, 0.2);
 	text-align:center;
 	padding: 16px;
 	text-decoration: none;
 }
 
 li a:hover {
-	background-color:rgba(255, 255, 255, 0.3);
+	background-color:rgba(255, 255, 255, 0.1);
 }
 
 hr {background-color: #dadada;}
@@ -52,7 +64,9 @@ body {
 body {
 	background-image: url('bg/5.png');
 	background-size: cover;
+	background-size: 150%;
 	background-repeat: no-repeat;
+	background-attachment: fixed;
   }
 
 .foot {

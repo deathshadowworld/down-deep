@@ -22,15 +22,15 @@
     <ul class="navi">
         <li class="lilink"><a href="test/home.html">Home 2</a></li>
         <li class="lilink"><a href="https://www.youtube.com/">Youtube</a></li>
-        <li class="lilink"><a href="gurps.html">GURPS</a></li>
-        <li class="lilink"><a href="vn.html">Web VN</a></li>
-        <li class="lilink"><a href="japanese.html">日本語</a></li>
-        <li class="lilink"><a href="manga.html">Manga</a></li>
-        <li class="lilink"><a href="hentai.html">Lewd</a></li>
-        <li class="lilink"><a href="pictures.html">Pictures</a></li>
+        <li class="lilink"><a href="tabletops/index.html">Tabletops</a></li>
+        <li class="lilink"><a href="vn/vn.html">Web VN</a></li>
+        <li class="lilink"><a href="japanese/japanese.html">日本語</a></li>
+        <li class="lilink"><a href="manga/manga.html">Manga</a></li>
+        <li class="lilink"><a href="hentai/hentai.html">Lewd</a></li>
+        <li class="lilink"><a href="pictures/pictures.html">Pictures</a></li>
         <li class="lilink"><a href="music/music.html">Music</a></li>
-        <li class="lilink"><a href="videos.html">Videos</a></li>
-        <li class="lilink"><a href="games.html">Games</a></li>
+        <li class="lilink"><a href="videos/videos.html">Videos</a></li>
+        <li class="lilink"><a href="games/games.html">Games</a></li>
     </ul>
 </nav>
 
