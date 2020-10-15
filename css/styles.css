@@ -49,7 +49,7 @@ body {
 	background-color: aquamarine;
 }
 body {
-	background-image: url('../media/img/bg/5.png');
+	background-image: url('/media/img/bg/5.png');
 	background-size: cover;
 	background-repeat: no-repeat;
   }
