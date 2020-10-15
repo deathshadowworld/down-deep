@@ -48,8 +48,9 @@ hr {background-color: #dadada;}
 body {
 	background-color: aquamarine;
 }
+
 body {
-	background-image: url('/media/img/bg/5.png');
+	background-image: url('https://uploadstatic-sea.mihoyo.com/strategyweb/20200618/2020061801060835508.jpg');
 	background-size: cover;
 	background-repeat: no-repeat;
   }
