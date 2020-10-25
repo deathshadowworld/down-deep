@@ -3,7 +3,7 @@ document.addEventListener('load',loadPage());
 function loadPage(){
     //extract query
     var name = window.location.search.replace("?manga=","");
-    var limit = JSON.parse('{"Yotsubato": [48, 36],"Kobayashi": [5,6,7,8],"Values":["Yotsubato","Kobayashi"], "Titles":["Yotsubato!","Kobayashi-san Chi no Maid Dragon"]}');
+    var limit = JSON.parse('{"Yotsubato": [48, 36],"Kobayashi": [15],"Values":["Yotsubato","Kobayashi"], "Titles":["Yotsubato!","Kobayashi-san Chi no Maid Dragon"]}');
     var pages = limit[name];
 
     for(var i = 0; i < pages.length; i++){

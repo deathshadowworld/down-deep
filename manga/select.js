@@ -1,7 +1,7 @@
 document.addEventListener('load',loadPage());
 
 function loadPage(){
-    var limit = JSON.parse('{"Yotsubato": [48, 36],"Kobayashi": [5,6,7,8],"Values":["Yotsubato","Kobayashi"], "Titles":["Yotsubato!","Kobayashi-san Chi no Maid Dragon"]}');
+    var limit = JSON.parse('{"Yotsubato": [48, 36],"Kobayashi": [15],"Values":["Yotsubato","Kobayashi"], "Titles":["Yotsubato!","Kobayashi-san Chi no Maid Dragon"]}');
     var titles = limit["Titles"];
     var values = limit["Values"];
 
