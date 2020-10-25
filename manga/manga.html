@@ -11,34 +11,26 @@
     <link rel="icon" href="../css/bg/bonfire.gif">
     <style>
         img{
-            max-height:800px;
+            max-height:850px;
+            max-width: 100%;
             margin-bottom: 25px;
             margin-top: 5px;
         }
     </style>
 </head>
 
-
 <body>
 <header>
-    <h1 class="mega">Hi</h1>
-    <p style="text-align: center; margin: 30px; color: white;">This is my manga collection.</p>
+    <h1 id="manga_name" class="mega">Hi</h1>
 </header>
 
-<div class="mega" stlye="height:auto;">
-    <img src="14.jpg" alt="manga page"><br>
-    <button type="button">Previous</button>
-    <select id="page" name="page">
-        <option value="14.jpg" >Page 14</option>
-        <option value="15.jpg">Page 15</option>
-        <option value="17.jpg">Page 17</option>
-    </select>
-    <button type="button">Next</button>
-
+<div class="mega" style="height:auto;">
+    <img id="image" src="" alt="manga page"><br>
+    <button type="button" id="prev" onclick="prevButton()">Previous</button>
+    <select id="page" name="page" onchange="pageSelect()"></select>
+    <button type="button" id="next" onclick="nextButton()">Next</button>
 </div>
 
-
+<script src="manga.js"></script>
 </body>
-
-
 </html>
