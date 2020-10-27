@@ -1,9 +1,18 @@
 document.addEventListener('load',loadPage());
+var link = document.createElement('link');
+link.rel = "stylesheet";
+link.href = "styles.css";
+document.head.appendChild(link);
 
 function loadPage(){
-    var limit = JSON.parse('{"Yotsubato": [48, 36],"Kobayashi": [15],"Values":["Yotsubato","Kobayashi"], "Titles":["Yotsubato!","Kobayashi-san Chi no Maid Dragon"]}');
-    var titles = limit["Titles"];
-    var values = limit["Values"];
+    var titles = data["Titles"];
+    var values = data["Values"];
+
+    var form = document.createElement('form');
+    form.id = "title_select";
+    form.action = "chapter.html";
+    form.method = "GET";
+    document.body.appendChild(form);
 
     for(var i = 0; i < titles.length; i++){
         var y = document.createElement("BUTTON");

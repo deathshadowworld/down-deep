@@ -2,6 +2,8 @@
 
 .megab {color: black; text-align: center;}
 
+.desc {text-align: center; margin-top: 30px; color: white;}
+
 .row {
 	display: flex;
   }

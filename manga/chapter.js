@@ -1,10 +1,13 @@
 document.addEventListener('load',loadPage());
+var link = document.createElement('link');
+link.rel = "stylesheet";
+link.href = "styles.css";
+document.head.appendChild(link);
 
 function loadPage(){
     //extract query
     var name = window.location.search.replace("?manga=","");
-    var limit = JSON.parse('{"Yotsubato": [48, 36],"Kobayashi": [15],"Values":["Yotsubato","Kobayashi"], "Titles":["Yotsubato!","Kobayashi-san Chi no Maid Dragon"]}');
-    var pages = limit[name];
+    var pages = data[name];
 
     for(var i = 0; i < pages.length; i++){
         var id = i.toString();
