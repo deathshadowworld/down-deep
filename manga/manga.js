@@ -53,4 +53,5 @@ function changeSelect(){
     var x = document.getElementById("image").getAttribute("src");
     y = x.replace(formatName,"").replace(path,"");
     document.getElementById("page").value = y;
+    document.getElementById('image').scrollIntoView();
 }
